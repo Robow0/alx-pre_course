@@ -1,1 +1,3 @@
-conflict
+#!/bin/bash
+echo "Alx School"
+echo "Alx School is so cool"
