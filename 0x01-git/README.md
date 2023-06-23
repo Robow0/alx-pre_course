@@ -1,2 +1,1 @@
-my first readme
-up_to_date
+It’s time to code!
